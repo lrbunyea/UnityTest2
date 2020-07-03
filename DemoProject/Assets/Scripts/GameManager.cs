@@ -7,7 +7,7 @@ public class GameManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Game Manager has started.");
+        Debug.Log("I'm trouble.");
     }
 
     // Update is called once per frame
