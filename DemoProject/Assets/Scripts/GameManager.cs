@@ -8,6 +8,7 @@ public class GameManager : MonoBehaviour
     void Start()
     {
         Debug.Log("Game Manager has initiated.");
+        Debug.Log("Wolves are cool.");
     }
 
     // Update is called once per frame
